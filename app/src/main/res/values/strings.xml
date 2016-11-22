@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PractTestQ2</string>
+    <string name="mode_of_contact">Preferred Mode of Contact</string>
+    
+    <string-array name="Mode">
+        <item>Call</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Whatsapp</item>
+    </string-array>
+</resources>
